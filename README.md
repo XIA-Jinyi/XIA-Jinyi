@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIA-Jinyi&&hide=tex)](https://github.com/XIA-Jinyi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XIA-Jinyi\&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIA-Jinyi&langs_count=8)

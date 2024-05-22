@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XIA-Jinyi\&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIA-Jinyi&layout=donut&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIA-Jinyi&layout=donut&size_weight=0.5&count_weight=0.5&hide=Tex)

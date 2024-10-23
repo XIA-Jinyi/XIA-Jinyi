@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My personal homepage: [xia-jinyi.github.io](https://xia-jinyi.github.io)
+I'm Jinyi Xia (夏锦熠), a Ph.D. student majoring Software Engineering. Currently, my research focuses on high-performance networking and scalable distributed systems for AI. Besides, my interest also includes information hiding.
 
 <!--
 **XIA-Jinyi/XIA-Jinyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XIA-Jinyi&hide_rank=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XIA-Jinyi)
+<a href="https://github.com/XIA-Jinyi">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=XIA-Jinyi&rank_icon=percentile" />
+</a>
+<a href="https://github.com/XIA-Jinyi">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=XIA-Jinyi&layout=compact&langs_count=10&card_width=320" />
+</a>
